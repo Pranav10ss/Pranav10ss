@@ -1,6 +1,9 @@
 ## Hi, I'm Pranav👋
 **`AWS Cloud Engineer`**
 
+I am an AWS Cloud Engineer with hands-on experience in building, automating, and operating cloud infrastructure on AWS.
+I focus on reliability, monitoring, and infrastructure as code using Terraform, and enjoy improving systems through automation and cloud-native practices.
+
 ![](https://komarev.com/ghpvc/?username=Pranav10ss)
 ____
 - 👨‍💻I'm currently learning **Kubernetes**
