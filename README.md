@@ -1,11 +1,14 @@
 ## Hi, I'm Pranav👋
-`AWS Cloud Engineer`
+**`AWS Cloud Engineer`**
+
+![](https://komarev.com/ghpvc/?username=Pranav10ss)
 ____
-📫Reach me out at [pranavswaroopmn@gmail.com](mailto:pranavswaroopmn@gmail.com)
+- 👨‍💻I'm currently learning **Kubernetes**
+- 📫Reach me out at [pranavswaroopmn@gmail.com](mailto:pranavswaroopmn@gmail.com)
 
 ### 🧰 Tools and Languages
 <p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
        alt="aws" width="40" height="40"/> 
 </a>
@@ -34,5 +37,3 @@ ____
        alt="linux" width="40" height="40"/>
 </a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=Pranav10ss)
