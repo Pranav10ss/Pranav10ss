@@ -1,4 +1,4 @@
-## Hi, I'm Pranav
+## Hi, I'm Pranav👋
 `AWS Cloud Engineer`
 ____
 📫Reach me out at [pranavswaroopmn@gmail.com](mailto:pranavswaroopmn@gmail.com)
