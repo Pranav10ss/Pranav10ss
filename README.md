@@ -40,3 +40,16 @@ ____
        alt="linux" width="40" height="40"/>
 </a>
 </p>
+
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/pranav-swaroop-m-n-469159179/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://x.com/PranavSwaroopM1" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
+         alt="X (Twitter)" width="40" height="40"/>
+  </a>
+</p>
+
