@@ -5,6 +5,8 @@ I am an AWS Cloud Engineer with hands-on experience in building, automating, and
 I focus on reliability, monitoring, and infrastructure as code using Terraform, and enjoy improving systems through automation and cloud-native practices.
 
 ![](https://komarev.com/ghpvc/?username=Pranav10ss)
+
+[![Hits](https://u8views.com/api/v1/github/profiles/115005957/views/day-week-month-total-count.svg)](https://u8views.com/github/Pranav10ss)
 ____
 - 👨‍💻I'm currently learning **Kubernetes**
 - 📫Reach me out at [pranavswaroopmn@gmail.com](mailto:pranavswaroopmn@gmail.com)
