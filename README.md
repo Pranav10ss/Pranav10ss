@@ -55,3 +55,7 @@ ____
   </a>
 </p>
 
+
+<a href="https://u8views.com/github/Pranav10ss">
+    <img src="https://u8views.com/api/v1/github/profiles/115005957/views/day-week-month-total-count.svg">
+</a>
