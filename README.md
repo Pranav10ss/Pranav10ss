@@ -7,7 +7,7 @@ I focus on reliability, monitoring, and infrastructure as code using Terraform, 
 ![](https://komarev.com/ghpvc/?username=Pranav10ss)
 ____
 - 👨‍💻I'm currently learning **Kubernetes**
-- 📫Reach me out at [pranavswaroopmn@gmail.com](mailto:pranavswaroopmn@gmail.com)
+- 📫Reach out to me at [pranavswaroopmn@gmail.com](mailto:pranavswaroopmn@gmail.com)
 
 ### 🧰 Tools and Languages
 <p align="left"> 
